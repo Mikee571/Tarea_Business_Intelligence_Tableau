@@ -1,6 +1,6 @@
 # Tarea_Business_Intelligence_Tableau
 
-**Orders:** Información de los préstamos.
+***Orders:*** Información de los préstamos.
 
 **Merchants:** Información de los comercios donde se han realizado los préstamos.
 
